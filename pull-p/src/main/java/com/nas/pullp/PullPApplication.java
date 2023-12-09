@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PullPApplication {
 
+ phase1
 	public String roro(){
 		return "kk";
 	}

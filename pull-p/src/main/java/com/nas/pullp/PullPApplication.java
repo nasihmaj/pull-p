@@ -13,8 +13,9 @@ public class PullPApplication {
 	}
 
 	public void add2(){
-		System.out.println("qq");
+		System.out.println("qqqq");
 	}
+
 	public static void main(String[] args) {
 
 		SpringApplication.run(PullPApplication.class, args);
